@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8"/> 
+	<title>All usługi 4U</title>
+	<meta name="description" content="TU znajdziesz firmy lub osoby, które wykonają dla ciebie wszelakie usługi"/>
+	<meta name="keywords" content="usługi, All usługi 4U, All usługi, różne usługi, korepetycje, korepetycje online, korepetycje język polski, koretpetycje historia"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+	<style>
+	
+	#container
+	{
+		width: 1000px;
+ 		margin-left:auto;
+		margin-right:auto;
+	} 
+	#logo
+	{
+		background-color: yellow; 
+		color: black;
+		text-align: center;
+		padding: 30px;
+	}  
+	#nav
+	{
+		float: left
+		background-color: lightgreen;
+		width: 120px;
+		min-height: 620px;
+		padding: 10px;
+	} 
+	#content
+	{
+	float:left;
+	padding:15px;
+	width:640px;
+	}
+	#ad
+	{
+	floaf:left;
+	width:160px;
+	min-height:620px;
+	background-color:lightgray;
+	}
+	#footer
+	{
+	clear: both;
+	background-color: yellow;
+	color: black;
+	text-align: center;
+	padding:20px;
+	}
+	</style>	
+</head>
+
+<body>
+<div id="container">
+	<div id="logo">
+	<h1>All Usługi 4u</h1>
+	</div>
+	<strong>Nie chcesz marnować czasu na przegladaniu internetu? Czy chcesz znaleść odpowiednia  firmę, bądź osobę do wykonania potrzebnej tobie usługi? Tu znajdziesz w łatwy sposób firmę lub osobe, która wykona dla ciebie usługę w swoim fachu:) </strong>
+	<h3>Dla firm oraz zainteresowanych osób</h3>
+	Czy nie masz zbyt dużo pracy, bądź ją staraciłeś? Chcesz sobie zbudować dodatkowe zródło dochodu? Potrzebujesz dodatkowych funduszy? <strong>To właśnie strona dla ciebie!</strong> Nie czekaj zgłoś się już teraz na podany mail poniżej;)(Zwracając się do nas z chęcią współpracy akceptujesz polityke strony oraz zoobowiazujesz sie do tego, że bedziesz się do niej stosować). <br/><h4>Kontakt</h4><h5 id="mail">e-mail:alluslugidlaklienta@gmail.com</h5>
+	<br/>
+	<h3>Polityka strony</h3>
+	<ul>
+	<li><h5>Jak do nas dołaczyć?</h5>Wystarczy napisać o chęci współpracy na podany e-mail powyżej. Wiadomość powinna zawierać:
+	<ul>
+	<li>Imię i nazwisko osoby lub nazwa firmy, która będzie chciała świadczyć usługi przez naszą strone</li>
+	<li>Informację jaką usługę może świadczyć dana firma lub osoba, a także w jakim rejonie kraju będzie możliwość wyświadczenia tej usługi (Rejon nie dotyczy usług online)</li>
+	<li>Kontakt do osoby (opcjonalnie swoje zdjęcie) lub firmy (opcjonalnie link do strony internetowej firmy) świadczącej usługi (nr.tel, e-mail itp)!!!TEN KONTAKT BĘDZIE WIDNIAŁ NA STRONIE!!!</li>
+	<li>Przeszłość zawodowa i edukacyjna (wykształcenie w kierunku danej usługi oraz poprzednia lub teraźniejsza praca danej osoby)</li>
+	</ul>
+	<li>Osoba, bądź firma współpracujaca z nami jest zobowiązana do:</li>
+	<ul>
+	<li>Rzetelnego wykonywania zleceń od klientów</li>
+	<li>Płacenia nam składek (inwidualnie-5zł/miesięcznie; fimy-10zł/miesięcznie)(informacja o metodzie płatności jest ustalana drogą mailową)</li>
+	</ul>
+	<li>Osoba, bądź firma współpracujaca z nami ma prawo do:</li>
+	<ul>
+	<li>Samodzielnego ustalania ceny i terminu wykonania pracy z klientem</li>
+	<li>Rezygnacji z naszej współpracy (przez e-mail)</li>
+	<li>Dowolności w płaceniu składek (np. po ustaleniu z nami można płacić składke roczną, lecz po wcześniejszej rezygnacji jest zoobowiązanie do zapłacenia składki wynoszącej równowartość czasu wpółpracy z nami)</li>	
+	</ul>
+	<li>Klient ma prawo do:</li>
+	<ul>
+	<li>Samodzielnego ustalania ceny i terminu wykonania pracy przez daną osobę</li>
+	<li>Samodzielnego wyboru osoby do wykonania danej usługi</li>
+	<li>Złożenia skargi na danego usługodawce na podany <a href="#mail">e-mail</a>  powyżej</li>
+	</ul>
+	</ul>
+	<br/><br/><br/>
+	<div id="nav">
+	<h3>Usługi:</h3>
+	<ul>
+	<li><a href="#korepetycje">korepetycje</a> </li>
+	</ul>
+	</div>
+	
+	<div id="content">
+	<h4 id="korepetycje">Korepetycje</h4>
+	<ul>
+	<li><a href="#Polski">Język Polski</a> </li>
+	<li><a href="#Historia">Historia</a> </li>
+	</ul>
+	<h5> <id="Polski">Język Polski& <id="Historia">Historia </h5>
+	Kamil ma lat 17. Jest uczniem klasy 3Lo na kierunku Humanistyka. Pomimo braku wyższego wykształcenia w tym kierunku potrafi wytłumaczyć oba swoje przedmioty. Dotychczasowe osiągnięcia to- Czwarte miejsce w Wielkopolskim konkursie Historycznym o Starożytności; Test ósmoklasisty z jezyka polskiego-90%. Korepetytor liczy na udaną współprace za bardzo rozsądną cene. Korepetycje przeważnie będą odbywały sie online, stacjonarnie mogą sie odbywac po dokładnym uzgodnieniu.
+	<br/>
+	<h5>kontakt</h5>
+	e-mail: kamilwalus5@gmail
+	
+	</div>
+	
+	<div id="ad">
+	</div> 
+	
+	<div id="footer">
+	All usługi 4U &copy; Wszelkie prawa zastrzeżone
+	</div>
+	
+	</body>
+	</html>
+	
